@@ -33,4 +33,5 @@ class Profile:
         
         print("# P.S. I also speak fluent 'Git'ish'. Commit, push, repeat.")
 ```
-
+# :bar_chart: Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxerrorthapa)]
