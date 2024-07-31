@@ -1,6 +1,6 @@
+# 👨‍💻 GitHub Profile
 
-👨‍💻 GitHub Profile
-
+```python
 class Profile:
     def __init__(self):
         self.name = "Pratik Thapa"
@@ -11,3 +11,4 @@ class Profile:
     
     def __str__(self):
         return f"Hi there, I'm {self.name}, a {self.title}!"
+```
