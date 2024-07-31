@@ -1,7 +1,6 @@
-<center>
+<div style="text-align: center;">
   <h1>👨‍💻 Pratik Thapa's GitHub Profile</h1>
-</center>
-
+</div>
 
 ```python
 # They call me SyntaxError for a reason ...
