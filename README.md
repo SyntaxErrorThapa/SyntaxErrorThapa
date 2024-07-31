@@ -33,5 +33,5 @@ class Profile:
         
         print("# P.S. I also speak fluent 'Git'ish'. Commit, push, repeat.")
 ```
-# :bar_chart: Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxerrorthapa)]
+*If you found the syntax error in the code above, let's connect on LinkedIn!* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pthapa4)
+
