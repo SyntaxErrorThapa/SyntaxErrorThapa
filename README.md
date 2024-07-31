@@ -1,4 +1,7 @@
-# 👨‍💻 Pratik Thapa's GitHub Profile
+<center>
+  <h1>👨‍💻 Pratik Thapa's GitHub Profile</h1>
+</center>
+
 
 ```python
 # They call me SyntaxError for a reason ...
@@ -11,7 +14,7 @@ class Profile:
         self.humor_level = "High"  # Because coding should be fun!
     
     def __str__(self):
-        return f"Hi there, I'm {self.name}, a {self.title}!"def skills(self):
+        return f"Hi there, I'm {self.name}, a {self.title}!"
 
     def skills(self):
         print("My Tech Stack: (a.k.a. the stuff that keeps me awake at night)")
