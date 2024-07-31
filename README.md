@@ -5,6 +5,10 @@
 ```python
 # They call me SyntaxError for a reason ...
 class Profile:
+    """
+    A special object representing the Pratik Thapa class.
+    """
+
     def __init__(self)
         self.name = "Pratik Thapa"
         self.title = "Programmer & Student"
@@ -33,5 +37,6 @@ class Profile:
         
         print("# P.S. I also speak fluent 'Git'ish'. Commit, push, repeat.")
 ```
-*If you found the syntax error in the code above, let's connect on LinkedIn!* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pthapa4)
+*If you found the syntax error in the code above, let's connect on LinkedIn!* 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pthapa4)
 
