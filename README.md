@@ -1,10 +1,6 @@
-<div style="text-align: center;">
-  <h1>Namasta! My name is Pratik Thapa.</h1>
-</div>
-
 ```python
 # They call me SyntaxError for a reason ...
-class Profile:
+class PratikThapa:
     """
     A special object representing the Pratik Thapa class.
     """
