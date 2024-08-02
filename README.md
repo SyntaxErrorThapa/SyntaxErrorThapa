@@ -1,5 +1,4 @@
 ```python
-# They call me SyntaxError for a reason ...
 class PratikThapa:
     """
     A special object representing the Pratik Thapa class.
