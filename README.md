@@ -19,5 +19,5 @@ class PratikThapa:
         }
         self.humor_level = "High"  # Because coding should be fun!
 ```
-*If you found the syntax error in the code above, let's connect on LinkedIn!* 
+*If you found the syntax error in the code above, let's connect on LinkedIn!* <br>
 Also, if you want to check out the two websites that I've hosted, the links are <a href='http://www.letsstudytogether.net'>Let's Study Together</a> & <a href='http://www.leetcodejournal.com'>Leetcode Journal</a>.
